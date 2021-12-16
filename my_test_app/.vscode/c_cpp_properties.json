@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/carlos/microros_ws/install/micro_ros_agent/include/**",
+        "/home/carlos/microros_ws/install/micro_ros_msgs/include/**",
+        "/home/carlos/microros_ws/install/drive_base_msgs/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/carlos/microros_ws/src/uros/micro-ROS-Agent/micro_ros_agent/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
